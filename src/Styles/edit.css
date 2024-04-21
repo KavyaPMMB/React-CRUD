@@ -1,0 +1,16 @@
+.form
+{
+    width: 600px;
+    margin: auto;
+    border: 2px solid black;
+    margin-top: 50px;
+    padding: 35px;
+    border-radius: 40px;
+    background-color: rgb(100, 198, 237);
+
+}
+.heading
+{
+    text-align: center;
+    color: blue;
+}
